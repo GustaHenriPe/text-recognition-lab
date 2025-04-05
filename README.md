@@ -33,12 +33,12 @@ A API identificou corretamente a palavra **"PARE"** com alta precisão (99%).
 ---
 
 ### Imagem 2: Placa de Proibido Estacionar + "Término"  
-**Texto identificado:** `"TÉRMINO +"` e `"40"`  
-A API reconheceu "TÉRMINO" com boa precisão, mas teve dificuldades com o símbolo **"+"** (baixa confiança de 3,6%).  
+**Texto identificado:** `"TÉRMINO"` e `"40"`  
+A API reconheceu corretamente a palavra **"TÉRMINO"**, mas identificou o número **"40"**, que não faz parte do texto principal da placa.  
 
 ![Placa Proibido Estacionar](./inputs/img2.jpg)  
 
-**Insight:** O reconhecimento de símbolos especiais pode ser um desafio para o OCR, especialmente se forem pequenos ou tiverem pouco contraste com o fundo.  
+**Insight:** O OCR teve um bom desempenho na detecção da palavra principal, mas também capturou informações que podem ter vindo de outros elementos próximos na imagem. Isso destaca a importância de um pós-processamento para filtrar apenas os textos relevantes.  
 
 ---
 
