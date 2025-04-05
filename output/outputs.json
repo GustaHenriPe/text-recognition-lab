@@ -1,0 +1,334 @@
+{
+    "status": "succeeded",
+    "createdDateTime": "2025-04-05T00:23:09Z",
+    "lastUpdatedDateTime": "2025-04-05T00:23:10Z",
+    "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+            {
+                "page": 1,
+                "angle": 2.632,
+                "width": 1280,
+                "height": 854,
+                "unit": "pixel",
+                "lines": [
+                    {
+                        "boundingBox": [
+                            235,
+                            169,
+                            596,
+                            185,
+                            590,
+                            292,
+                            233,
+                            275
+                        ],
+                        "text": "PARE",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.972
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    236,
+                                    169,
+                                    570,
+                                    186,
+                                    562,
+                                    292,
+                                    234,
+                                    276
+                                ],
+                                "text": "PARE",
+                                "confidence": 0.991
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+{
+    "status": "succeeded",
+    "createdDateTime": "2025-04-05T00:32:25Z",
+    "lastUpdatedDateTime": "2025-04-05T00:32:25Z",
+    "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+            {
+                "page": 1,
+                "angle": -2.5972,
+                "width": 900,
+                "height": 618,
+                "unit": "pixel",
+                "lines": [
+                    {
+                        "boundingBox": [
+                            529,
+                            295,
+                            588,
+                            292,
+                            589,
+                            305,
+                            529,
+                            308
+                        ],
+                        "text": "TÉRMINO +",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.972
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    530,
+                                    295,
+                                    575,
+                                    293,
+                                    576,
+                                    306,
+                                    530,
+                                    308
+                                ],
+                                "text": "TÉRMINO",
+                                "confidence": 0.849
+                            },
+                            {
+                                "boundingBox": [
+                                    580,
+                                    293,
+                                    587,
+                                    292,
+                                    588,
+                                    305,
+                                    581,
+                                    306
+                                ],
+                                "text": "+",
+                                "confidence": 0.036
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            508,
+                            357,
+                            519,
+                            356,
+                            519,
+                            364,
+                            508,
+                            364
+                        ],
+                        "text": "40",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.972
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    509,
+                                    356,
+                                    517,
+                                    356,
+                                    518,
+                                    364,
+                                    509,
+                                    364
+                                ],
+                                "text": "40",
+                                "confidence": 0.656
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
+{
+    "status": "succeeded",
+    "createdDateTime": "2025-04-05T00:33:56Z",
+    "lastUpdatedDateTime": "2025-04-05T00:33:57Z",
+    "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+            {
+                "page": 1,
+                "angle": 2.0428,
+                "width": 720,
+                "height": 400,
+                "unit": "pixel",
+                "lines": [
+                    {
+                        "boundingBox": [
+                            505,
+                            131,
+                            664,
+                            126,
+                            666,
+                            175,
+                            507,
+                            181
+                        ],
+                        "text": "6,0 m",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.972
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    505,
+                                    132,
+                                    582,
+                                    129,
+                                    585,
+                                    179,
+                                    508,
+                                    181
+                                ],
+                                "text": "6,0",
+                                "confidence": 0.963
+                            },
+                            {
+                                "boundingBox": [
+                                    599,
+                                    128,
+                                    628,
+                                    128,
+                                    631,
+                                    177,
+                                    602,
+                                    178
+                                ],
+                                "text": "m",
+                                "confidence": 0.996
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            591,
+                            270,
+                            609,
+                            270,
+                            609,
+                            280,
+                            591,
+                            280
+                        ],
+                        "text": "LOS",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.815
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    591,
+                                    270,
+                                    608,
+                                    270,
+                                    608,
+                                    280,
+                                    591,
+                                    280
+                                ],
+                                "text": "LOS",
+                                "confidence": 0.873
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            563,
+                            283,
+                            575,
+                            284,
+                            575,
+                            292,
+                            563,
+                            292
+                        ],
+                        "text": "PE",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.945
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    563,
+                                    283,
+                                    575,
+                                    283,
+                                    574,
+                                    292,
+                                    563,
+                                    291
+                                ],
+                                "text": "PE",
+                                "confidence": 0.996
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            595,
+                            283,
+                            608,
+                            283,
+                            609,
+                            294,
+                            595,
+                            293
+                        ],
+                        "text": "os",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.945
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    595,
+                                    283,
+                                    607,
+                                    283,
+                                    607,
+                                    294,
+                                    595,
+                                    293
+                                ],
+                                "text": "os",
+                                "confidence": 0.521
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
